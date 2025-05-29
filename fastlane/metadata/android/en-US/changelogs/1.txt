@@ -1,0 +1,4 @@
+Initial release of CoinVert:
+• Supports conversions for 200+ currencies
+• Clean, ad-free UI
+• Fully open-source under GPL-3.0 license
