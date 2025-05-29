@@ -1,0 +1,21 @@
+CoinVert is a clean, full-featured currency converter designed to support over 200 currencies including cryptocurrencies. With a sleek interface and real-time rate updates, it’s built to be fast, ad-free, and fully transparent about your data.
+
+Key Features:
+• Real-time exchange rate updates
+• Support for 200+ global currencies and crypto
+• Offline mode with cached rates
+• No ads, no tracking, no nonsense
+• Modern and convenient UI
+
+Privacy Policy:
+CoinVert does not collect, track, or store any personal data. All conversion and rate lookup operations are performed without logging user behavior. We do not use analytics, ads, or tracking libraries. Your data stays on your device, where it belongs.
+
+License:
+CoinVert is licensed under the GNU General Public License v3.0 (GPL-3.0). This means you may freely use, modify, and redistribute the app as long as all derived works also remain under the same license.
+
+✔️ Free and open-source  
+✔️ No ads or tracking  
+✔️ Commercial use allowed  
+❗ Modifications must remain GPL-3.0
+
+Questions or feedback? Reach out to: support@rabbittownsoftware.com
