@@ -34,6 +34,16 @@
 
 ---
 
+## Download
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.rabbittownsoftware.coinvert/)
+
+Or download the latest APK from the [Releases Section](https://github.com/Rabbit-Town-Software/coinvert/releases/latest).
+
+---
+
 ## Privacy Policy
 
 CoinVert does **not** collect, track, or store any personal data.  
