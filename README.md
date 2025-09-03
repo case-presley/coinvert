@@ -1,36 +1,26 @@
 <!-- Banner Image at the top, full width -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rabbit-town-software/coinvert/master/assets/banner.jpg" alt="CoinVert Banner"/>
-</p>
 
 <h1 align="center">CoinVert</h1>
-<p align="center"><em>A powerful, modern currency converter with real-time rates and a focus on privacy.</em></p>
+<p align="center"><em>A powerful currency converter supporting 200+ currencies (crypto included).
+                Downloadable for free on F-Droid!</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
-  <img src="https://img.shields.io/badge/build-pending-lightgrey.svg">
-  <img src="https://img.shields.io/github/issues/rabbit-town-software/coinvert.svg">
-  <img src="https://img.shields.io/github/last-commit/rabbit-town-software/coinvert">
-  <img src="https://img.shields.io/github/languages/code-size/rabbit-town-software/coinvert">
-  <img src="https://img.shields.io/github/languages/top/rabbit-town-software/coinvert">
-  <img src="https://img.shields.io/github/contributors/rabbit-town-software/coinvert">
 </p>
 
 ---
 
 ## About CoinVert
 
-**CoinVert** is a clean, full-featured currency converter designed to support over 200 currencies including cryptocurrencies. With a sleek interface and real-time rate updates, it’s built to be fast, ad-free, and fully transparent about your data.
+**CoinVert** is a clean, full-featured currency converter designed to support over 200 currencies including cryptocurrencies. With a beautiful interface and real-time rate updates, it’s built to be fast, ad-free, and easy to use.
 
 ---
 
 ## Features
 
-- 🔁 Real-time exchange rate updates  
-- 🌐 Support for 200+ global currencies and cryptocurrencies  
-- 📶 Offline mode with cached rates  
-- 🚫 No ads, no tracking, no nonsense  
-- 🖥️ Modern, intuitive UI  
+- Real-time exchange rate updates  
+- Support for 200+ global currencies and cryptocurrencies  
+- Modern, intuitive UI  
 
 ---
 
@@ -41,15 +31,6 @@
      height="80">](https://f-droid.org/packages/com.rabbittownsoftware.coinvert/)
 
 Or download the latest APK from the [Releases Section](https://github.com/Rabbit-Town-Software/coinvert/releases/latest).
-
----
-
-## Privacy Policy
-
-CoinVert does **not** collect, track, or store any personal data.  
-All conversion and rate lookup operations are performed **locally** or through secure, anonymous API calls.  
-We do **not** use analytics, ads, or tracking libraries.  
-Your data stays on your device — where it belongs.
 
 ---
 
@@ -65,14 +46,6 @@ You are free to use, modify, and distribute the app, as long as any modified ver
 
 ---
 
-## Testing Status
-
-CoinVert is currently in closed testing on Google Play.  
-Looking for a few early testers to help finalize the app before public launch.  
-If you're interested, get in touch!
-
----
-
 ## Contact
 
 Questions, bug reports, or feature requests?  
@@ -80,7 +53,7 @@ Email: [support@rabbittownsoftware.com](mailto:support@rabbittownsoftware.com)
 
 ---
 
-## 🐇 Rabbit Town Software
+## Rabbit Town Software
 
 <br/>
 
