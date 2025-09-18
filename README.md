@@ -32,7 +32,7 @@
 
 [<img src="https://www.openapk.net/images/openapk-badge.png" 
 alt="Get it on OpenApk"
-height="80">](https://www.openapk.net/convertly/com.rabbittownsoftware.convertly/apk/download)
+height="80">](https://www.openapk.net/coinvert/com.rabbittownsoftware.coinvert/apk/download)
 
 Or download the latest APK from the [Releases Section](https://www.openapk.net/coinvert/com.rabbittownsoftware.coinvert/)
 
