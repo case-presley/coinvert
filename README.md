@@ -2,7 +2,7 @@
 
 <h1 align="center">CoinVert</h1>
 <p align="center"><em>A powerful currency converter supporting 200+ currencies (crypto included).
-                Downloadable for free on F-Droid!</em></p>
+                Downloadable for free on F-Droid and OpenApk!</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
